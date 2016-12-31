@@ -155,7 +155,7 @@
     "padded-blocks": [0],
     "quote-props": [0],
     "radix": [0],
-    "semi": [2],
+    "semi": [1],
     "semi-spacing": [2, {"before": false, "after": true}],
     "sort-vars": [0],
     "keyword-spacing": [2],

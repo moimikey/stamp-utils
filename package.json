@@ -44,7 +44,7 @@
     "eslint": "^3.10.2",
     "rimraf": "^2.4.3",
     "tape": "^4.2.1",
-    "updtr": "0.2.3",
+    "updtr": "3.1.0",
     "watch": "1.0.1"
   },
   "dependencies": {
